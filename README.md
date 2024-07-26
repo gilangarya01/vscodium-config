@@ -9,7 +9,7 @@ To use this configuration, follow the steps below:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/vscodium-config.git
+   git clone https://github.com/gilangarya01/vscodium-config.git
    cd vscodium-config
    ```
 
