@@ -1,0 +1,8 @@
+bierner.markdown-preview-github-styles
+digitalbrainstem.javascript-ejs-support
+esbenp.prettier-vscode
+felixicaza.andromeda
+formulahendry.auto-rename-tag
+pkief.material-icon-theme
+pkief.material-product-icons
+ritwickdey.liveserver
